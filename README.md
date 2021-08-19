@@ -7,7 +7,7 @@
 
 <main>
 <section>
-<h3>Connect with me ✨</h3>
+<h3 align="middle">Connect with me ✨</h3>
 <p align="middle">
 	<a href="mailto:dedaldino4dev@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
