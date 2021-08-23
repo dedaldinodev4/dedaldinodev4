@@ -1,6 +1,6 @@
 <body>
 <header>
-<div align="middle" style="">
+<div align="middle" style="border-radius: 50%;">
 	<img src="https://github.com/dedaldinodev4.png" />
 </div>
 <h3 align="middle">Hi there, I'm Dedaldino Daniel
