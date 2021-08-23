@@ -1,7 +1,7 @@
 <body>
 <header>
-<div align="middle" style="border-radius: 50%;">
-	<img src="https://github.com/dedaldinodev4.png" />
+<div align="middle">
+	<img src="assets/logo.png" alt="avatar">
 </div>
 <h3 align="middle">Hi there, I'm Dedaldino Daniel
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
