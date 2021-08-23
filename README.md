@@ -1,5 +1,8 @@
 <body>
 <header>
+<div align="middle" style="">
+	<img src="https://github.com/dedaldinodev4.png" />
+</div>
 <h3 align="middle">Hi there, I'm Dedaldino Daniel
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -8,6 +11,7 @@
 <main>
 <section>
 <br>
+
 <p align="middle">
  Connect with me ✨<br><br>
 <p align="middle">
